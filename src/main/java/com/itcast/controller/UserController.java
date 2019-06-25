@@ -12,7 +12,7 @@ public class UserController {
     * */
 public String fileupload2(){
 
-
+    System.out.println("怎么有上传");
 
     return null;
 }
